@@ -1,0 +1,7 @@
+{
+  "name": "MY MUJI ROOM",
+  "description": "A MUJI-style interior design assistant using AI to visualize and organize your space.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
